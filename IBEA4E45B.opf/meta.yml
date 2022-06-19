@@ -1,0 +1,25 @@
+id: IBEA4E45B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T18:03:23.304911'
+last_modified: '2022-06-19T18:03:23.304925'
+parser: null
+source_metadata:
+  title: Vajravidāraṇa Series
+  language: en
+  description: 'A series of texts related to the deity Vajravidāraṇa (rdo rje rnam
+    ‘joms), a wrathful form of Vajrapāṇi:'
+  volume:
+    fFC3E:
+      title: Vajravidāraṇa Dhāraṇī (Nyingma Version)
+      base_file: fFC3E.txt
+      order: 1
+      parent: Dhāraṇī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
